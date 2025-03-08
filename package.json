@@ -60,6 +60,8 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "nx": "20.3.2",
     "storybook": "^8.6.0-alpha.0",
+    "style-dictionary": "^4.3.3",
+    "style-dictionary-utils": "^4.0.5",
     "typescript": "~5.6.2"
   },
   "nx": {}
